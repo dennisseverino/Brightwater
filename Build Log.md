@@ -113,6 +113,20 @@ Created page components:
   - `public/team-maya-chen.jpg`
   - `public/team-sophie-turner.jpg`
   - `public/team-eleanor-price.jpg`
+- Refined team imagery with a more consistent professional portrait set and exported uniform WebP crops:
+  - `public/team-amelia-hart.webp`
+  - `public/team-maya-chen.webp`
+  - `public/team-sophie-turner.webp`
+  - `public/team-eleanor-price.webp`
+- Updated the principal solicitor and one family lawyer to male team members:
+  - Daniel Hart, Principal Solicitor, using `public/team-daniel-hart.webp`
+  - Oliver Turner, Family Lawyer, using `public/team-oliver-turner.webp`
+- Optimized the hero and navigation mark as WebP assets:
+  - `public/brightwater-consultation.webp`
+  - `public/brightwater-logo-mark.webp`
+- Added optimized title icon:
+  - `public/brightwater-title-logo-512.png`
+- Added `README.md` with setup, verification, design rationale, conversion strategy, asset notes, and deployment guidance.
 
 ### UX and Accessibility Features
 

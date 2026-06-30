@@ -9,7 +9,7 @@ export default function Navigation() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8" aria-label="Primary">
         <a href="#top" className="flex items-center gap-3 rounded-full focus-ring" aria-label="Brightwater Family Law home">
           <span className="grid size-14 place-items-center rounded-full bg-sage/55 shadow-soft ring-1 ring-charcoal/5">
-            <img src="/BrightWater-logo-2.png" alt="Brightwater Family Law" className="h-9 w-11 object-contain" />
+            <img src="/brightwater-logo-mark.webp" alt="Brightwater Family Law" className="h-9 w-11 object-contain" />
           </span>
           <span className="leading-tight">
             <span className="block font-serif text-lg text-charcoal">Brightwater</span>

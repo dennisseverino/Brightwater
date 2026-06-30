@@ -29,7 +29,7 @@ export default function Hero() {
           <div className="absolute -left-6 top-12 hidden h-32 w-32 rounded-full bg-sage/35 blur-3xl lg:block" aria-hidden="true" />
           <div className="relative overflow-hidden rounded-[2rem] border border-white/70 bg-white shadow-image">
             <img
-              src="/brightwater-consultation.png"
+              src="/brightwater-consultation.webp"
               alt="A calm family law consultation in a warm, private office"
               className="h-full min-h-[420px] w-full object-cover"
               fetchPriority="high"

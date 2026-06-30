@@ -55,30 +55,30 @@ export const approachPoints = [
 
 export const teamMembers = [
   {
-    name: 'Amelia Hart',
+    name: 'Daniel Hart',
     role: 'Principal Solicitor',
-    image: '/team-amelia-hart.jpg',
+    image: '/team-daniel-hart.webp',
     detail:
       '18 years helping families resolve separation, parenting, and property matters with calm, strategic advice.',
   },
   {
     name: 'Maya Chen',
     role: 'Senior Associate',
-    image: '/team-maya-chen.jpg',
+    image: '/team-maya-chen.webp',
     detail:
       'Known for clear communication in parenting arrangements and child-focused dispute resolution.',
   },
   {
-    name: 'Sophie Turner',
+    name: 'Oliver Turner',
     role: 'Family Lawyer',
-    image: '/team-sophie-turner.jpg',
+    image: '/team-oliver-turner.jpg',
     detail:
       'Supports clients through property settlements and mediation preparation with practical structure.',
   },
   {
     name: 'Eleanor Price',
     role: 'Family Lawyer',
-    image: '/team-eleanor-price.jpg',
+    image: '/team-eleanor-price.webp',
     detail:
       'Helps first-time legal clients understand their options without pressure or unnecessary jargon.',
   },
