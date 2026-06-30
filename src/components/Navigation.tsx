@@ -7,13 +7,13 @@ export default function Navigation() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-charcoal/10 bg-ivory/88 backdrop-blur-xl">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-8" aria-label="Primary">
-        <a href="#top" className="group flex items-center gap-3 focus-ring rounded-full">
-          <span className="grid size-10 place-items-center rounded-full bg-sage text-sm font-semibold text-charcoal shadow-soft">
-            B
+        <a href="#top" className="flex items-center gap-3 rounded-full focus-ring" aria-label="Brightwater Family Law home">
+          <span className="grid size-14 place-items-center rounded-full bg-sage/55 shadow-soft ring-1 ring-charcoal/5">
+            <img src="/BrightWater-logo-2.png" alt="Brightwater Family Law" className="h-9 w-11 object-contain" />
           </span>
           <span className="leading-tight">
             <span className="block font-serif text-lg text-charcoal">Brightwater</span>
-            <span className="block text-xs font-medium tracking-[0.18em] text-warm-gray uppercase">Family Law</span>
+            <span className="block text-xs font-medium uppercase tracking-[0.18em] text-warm-gray">Family Law</span>
           </span>
         </a>
 

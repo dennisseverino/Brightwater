@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-ivory">
       <div className="mx-auto grid max-w-7xl gap-10 px-5 py-14 md:grid-cols-4 lg:px-8">
         <div className="md:col-span-2">
-          <p className="font-serif text-3xl text-charcoal">Brightwater Family Law</p>
+          <img src="/BrightWater-logo-2.png" alt="Brightwater Family Law" className="h-20 w-auto" />
           <p className="mt-4 max-w-md text-sm leading-6 text-warm-gray">
             Boutique family law advice for Brisbane and Gold Coast families navigating separation, parenting, property, and mediation.
           </p>

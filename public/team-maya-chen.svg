@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder for Maya Chen</title>
+  <desc id="desc">Warm abstract professional portrait placeholder in Brightwater brand colors.</desc>
+  <rect width="640" height="800" rx="56" fill="#FFFCF7"/>
+  <rect width="640" height="800" rx="56" fill="url(#bg)"/>
+  <path d="M205 286c0-91 48-153 115-153s115 62 115 153c0 84-52 142-115 142S205 370 205 286Z" fill="#26302E"/>
+  <circle cx="320" cy="280" r="104" fill="#D9BDA8"/>
+  <path d="M198 286c10-110 58-170 126-170 61 0 107 50 119 143-76-2-145-30-203-84-24 26-37 63-42 111Z" fill="#26302E"/>
+  <path d="M166 740c24-151 94-236 154-236s130 85 154 236H166Z" fill="#5F8F8A"/>
+  <path d="M252 544h136l-68 74-68-74Z" fill="#FFFCF7"/>
+  <circle cx="282" cy="285" r="9" fill="#26302E"/>
+  <circle cx="358" cy="285" r="9" fill="#26302E"/>
+  <path d="M289 340c20 13 42 13 62 0" fill="none" stroke="#26302E" stroke-width="9" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="bg" x1="96" x2="548" y1="54" y2="746" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFCF7"/>
+      <stop offset=".6" stop-color="#EEF1E9"/>
+      <stop offset="1" stop-color="#DCE9E7"/>
+    </linearGradient>
+  </defs>
+</svg>

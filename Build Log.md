@@ -48,6 +48,13 @@
   - `public/brightwater-consultation.png`
 - Added an Open Graph image:
   - `public/og-image.svg`
+- Added a lightweight SVG logo:
+  - `public/brightwater-logo.svg`
+- Added four editable SVG team portrait placeholders:
+  - `public/team-amelia-hart.svg`
+  - `public/team-maya-chen.svg`
+  - `public/team-sophie-turner.svg`
+  - `public/team-eleanor-price.svg`
 
 ### Source Structure
 
@@ -86,6 +93,26 @@ Created page components:
 - FAQ.
 - Consultation CTA and form.
 - Footer.
+
+### Brand and Team Asset Update
+
+- Replaced the text-based navigation mark with the new SVG logo.
+- Added the same logo to the footer.
+- Replaced the team initial badges with individual portrait placeholder images.
+- Added team image paths to `src/data/siteContent.ts`.
+- Added imported PNG brand logo as the browser icon and primary navigation logo:
+  - `public/BrightWater-logo.png`
+- Added a soft sage circular background behind the navigation logo mark.
+- Generated a matching circular title icon for browser tabs and Apple touch icons:
+  - `public/brightwater-title-icon.png`
+- Replaced the generated title icon with the provided title logo asset:
+  - `public/BrightWater-title-logo.png`
+- Added the Brightwater Family Law wordmark beside the circular navigation logo.
+- Replaced team portrait placeholder SVGs with real stock portrait photos:
+  - `public/team-amelia-hart.jpg`
+  - `public/team-maya-chen.jpg`
+  - `public/team-sophie-turner.jpg`
+  - `public/team-eleanor-price.jpg`
 
 ### UX and Accessibility Features
 
