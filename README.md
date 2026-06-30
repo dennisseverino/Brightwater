@@ -49,7 +49,7 @@ The primary conversion action is booking a free 20-minute consultation. Each sec
 
 Images are stored locally in `public/` so the production site is not dependent on third-party image URLs at runtime.
 
-- Team portraits are real stock portrait images sourced from Pexels and exported as consistent 4:5 WebP crops.
+- Team portraits are real stock portrait images sourced from stock providers and exported as consistent 4:5 WebP crops.
 - The hero consultation image is optimized as WebP.
 - Brand marks are optimized for navigation and browser title usage.
 

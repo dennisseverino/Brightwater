@@ -40,7 +40,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="mx-auto flex max-w-7xl flex-col gap-4 border-t border-charcoal/10 px-5 py-6 text-xs leading-5 text-warm-gray md:flex-row md:items-center md:justify-between lg:px-8">
-        <p>© 2026 Brightwater Family Law. Fictional assessment website.</p>
+        <p>&copy; 2026 Brightwater Family Law. Fictional assessment website.</p>
         <p>Practice areas: {practiceAreas.map((area) => area.title).join(', ')}.</p>
       </div>
     </footer>

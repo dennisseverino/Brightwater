@@ -71,7 +71,7 @@ export const teamMembers = [
   {
     name: 'Oliver Turner',
     role: 'Family Lawyer',
-    image: '/team-oliver-turner.jpg',
+    image: '/team-oliver-turner.webp',
     detail:
       'Supports clients through property settlements and mediation preparation with practical structure.',
   },

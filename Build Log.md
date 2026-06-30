@@ -126,6 +126,7 @@ Created page components:
   - `public/brightwater-logo-mark.webp`
 - Added optimized title icon:
   - `public/brightwater-title-logo-512.png`
+- Removed superseded source, placeholder, and PNG/JPG runtime assets after confirming the app references optimized files.
 - Added `README.md` with setup, verification, design rationale, conversion strategy, asset notes, and deployment guidance.
 
 ### UX and Accessibility Features
